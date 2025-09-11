@@ -7,8 +7,6 @@ Projects were developed as part of academic coursework and extended into **portf
 
 ## Projects
 
-1. **Algorithm Foundations** – Core algorithms (recursion, sorting, searching).  
-2. **Applied Python Algorithms** – Data handling & problem-solving with [AIMA Python](https://github.com/aimacode/aima-python) references.  
 3. **Random Simulation** – Probability models and random number generation.  
 4. **Probabilistic Reasoning** – Bayesian inference & uncertainty modeling (AIMA Python).  
 5. **MDP Exploration** – Markov Decision Processes & reinforcement learning.  
