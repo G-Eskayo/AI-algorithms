@@ -26,5 +26,3 @@ Each project folder contains:
 - **Python 3.x**  
 - Libraries: `scikit-learn`, `numpy`, `matplotlib`, `pandas`  
 - Open-source frameworks: [AIMA Python](https://github.com/aimacode/aima-python)  
-
----
