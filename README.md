@@ -28,10 +28,3 @@ Each project folder contains:
 - Open-source frameworks: [AIMA Python](https://github.com/aimacode/aima-python)  
 
 ---
-
-
-Example (Decision Tree Classifier):
-
-```bash
-cd 06_decision_tree_classifier
-python decision_tree.py
