@@ -29,9 +29,6 @@ Each project folder contains:
 
 ---
 
-## How to Run
-
-Each project folder contains setup instructions in its `README.md`.  
 
 Example (Decision Tree Classifier):
 
