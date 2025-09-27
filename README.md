@@ -7,12 +7,12 @@ Projects were developed as part of academic coursework and extended into **portf
 
 ## Projects
 
-3. **Random Simulation** – Probability models and random number generation.  
-4. **Probabilistic Reasoning** – Bayesian inference & uncertainty modeling (AIMA Python).  
-5. **MDP Exploration** – Markov Decision Processes & reinforcement learning.  
-6. **Decision Tree Classifier** – Supervised ML model with scikit-learn.  
-7. **Search Algorithms** – BFS, DFS, UCS, A* implementations with performance comparison.  
-8. **Mancala Game** – Full board game implementation in Python with gameplay demo.  
+**Random Simulation** – Probability models and random number generation.  
+**Probabilistic Reasoning** – Bayesian inference & uncertainty modeling (AIMA Python).  
+**MDP Exploration** – Markov Decision Processes & reinforcement learning.  
+**Decision Tree Classifier** – Supervised ML model with scikit-learn.  
+**Search Algorithms** – BFS, DFS, UCS, A* implementations with performance comparison.  
+**Mancala Game** – Full board game implementation in Python with gameplay demo.  
 
 Each project folder contains:  
 - **Code**: Source `.py` files or notebooks.  
